@@ -1,3 +1,8 @@
+/*
+    CIT 281 Lab 3
+    Name: Garrett Arnold
+*/
+
 // TODO Part 11: Import reverseString() and concatenateString()
 // functions from lab-03-module.js module using require()
 
