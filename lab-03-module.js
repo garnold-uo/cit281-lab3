@@ -1,3 +1,8 @@
+/*
+    CIT 281 Lab 3
+    Name: Garrett Arnold
+*/
+
 // TODO Part 9: Add the reverseString function to the module.exports object
 // for import using require()
 
